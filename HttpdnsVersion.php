@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Httpdns
  *
- * @method V20160201\HttpdnsApiResolver v20160201()
+ * @method static V20160201\HttpdnsApiResolver v20160201()
  */
-class Httpdns
+class HttpdnsVersion
 {
     use VersionResolverTrait;
 }

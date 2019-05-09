@@ -5,8 +5,8 @@ namespace AlibabaCloud\Httpdns;
 use AlibabaCloud\Client\Resolver\VersionResolver;
 
 /**
- * @deprecated
+ * @method static V20160201\HttpdnsApiResolver v20160201()
  */
-class HttpdnsVersion extends VersionResolver
+class Httpdns extends VersionResolver
 {
 }
